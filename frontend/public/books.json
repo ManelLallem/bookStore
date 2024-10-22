@@ -1,0 +1,210 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "overview": "A novel about the serious issues of rape and racial inequality, seen through the eyes of a young girl in 1930s Alabama.",
+        "price": 12.99,
+        "publisher": "J.B. Lippincott & Co.",
+        "pages": 281
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "overview": "A dystopian social science fiction novel that warns of the dangers of totalitarianism.",
+        "price": 9.99,
+        "publisher": "Secker & Warburg",
+        "pages": 328
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "overview": "A romantic novel about the emotional development of Elizabeth Bennet as she navigates love, reputation, and misunderstandings.",
+        "price": 7.99,
+        "publisher": "T. Egerton",
+        "pages": 279
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "overview": "A critique of the American Dream set in the Roaring Twenties, focusing on wealth, obsession, and tragedy.",
+        "price": 10.99,
+        "publisher": "Charles Scribner's Sons",
+        "pages": 180
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "overview": "An epic tale of obsession and revenge as Captain Ahab seeks the elusive white whale.",
+        "price": 11.99,
+        "publisher": "Harper & Brothers",
+        "pages": 585
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "overview": "A historical novel that delves into the lives of five aristocratic families during Napoleon's invasion of Russia.",
+        "price": 14.99,
+        "publisher": "The Russian Messenger",
+        "pages": 1225
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "overview": "A novel about teenage rebellion and alienation as narrated by the cynical Holden Caulfield.",
+        "price": 8.99,
+        "publisher": "Little, Brown and Company",
+        "pages": 277
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "overview": "The fantastical journey of Bilbo Baggins as he is thrust into an adventure with dwarves to reclaim their homeland.",
+        "price": 9.99,
+        "publisher": "George Allen & Unwin",
+        "pages": 310
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "overview": "A dystopian novel where books are banned, and 'firemen' burn them, questioning the role of censorship in society.",
+        "price": 7.99,
+        "publisher": "Ballantine Books",
+        "pages": 249
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "overview": "A dystopian future where individuality is suppressed in favor of a caste system based on genetic engineering.",
+        "price": 8.99,
+        "publisher": "Chatto & Windus",
+        "pages": 268
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "overview": "A philosophical novel about Santiago, a shepherd on a journey to discover his personal legend.",
+        "price": 11.99,
+        "publisher": "HarperOne",
+        "pages": 208
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "overview": "A novel exploring the consequences of vanity and moral corruption as Dorian Gray seeks eternal youth.",
+        "price": 6.99,
+        "publisher": "Lippincott's Monthly Magazine",
+        "pages": 254
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "overview": "A psychological exploration of a man who commits murder and struggles with guilt and redemption.",
+        "price": 10.99,
+        "publisher": "The Russian Messenger",
+        "pages": 671
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "overview": "A complex exploration of faith, doubt, free will, and morality through the lives of three brothers.",
+        "price": 12.99,
+        "publisher": "The Russian Messenger",
+        "pages": 796
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "overview": "A thrilling tale of an innocent man wrongfully imprisoned, his escape, and his quest for vengeance.",
+        "price": 13.99,
+        "publisher": "Penguin Classics",
+        "pages": 1276
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "overview": "A classic coming-of-age novel that explores themes of love, morality, and independence through the life of an orphan.",
+        "price": 7.99,
+        "publisher": "Smith, Elder & Co.",
+        "pages": 532
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "overview": "A powerful depiction of the hardships faced by migrant farmers during the Great Depression.",
+        "price": 10.99,
+        "publisher": "The Viking Press-James Lloyd",
+        "pages": 464
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "overview": "The lives of four sisters growing up during the Civil War and their journey from childhood to adulthood.",
+        "price": 8.99,
+        "publisher": "Roberts Brothers",
+        "pages": 759
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "overview": "A semi-autobiographical novel about a young woman’s battle with mental illness in the 1950s.",
+        "price": 9.99,
+        "publisher": "Heinemann",
+        "pages": 244
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "overview": "A passionate and tragic love story set on the desolate Yorkshire moors.",
+        "price": 7.99,
+        "publisher": "Thomas Cautley Newby",
+        "pages": 416
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "overview": "A harrowing post-apocalyptic novel about a father and son's struggle to survive.",
+        "price": 9.99,
+        "publisher": "Alfred A. Knopf",
+        "pages": 287
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "overview": "A poignant story of two teenagers who fall in love while dealing with the effects of terminal illness.",
+        "price": 8.99,
+        "publisher": "Dutton Books",
+        "pages": 313
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "overview": "A dystopian novel set in a theocratic society where women’s rights are severely restricted.",
+        "price": 9.99,
+        "publisher": "McClelland and Stewart",
+        "pages": 311
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "overview": "A story of friendship, betrayal, and redemption set against the backdrop of a changing Afghanistan.",
+        "price": 11.99,
+        "publisher": "Riverhead Books",
+        "pages": 372
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "overview": "A short novel about an aging fisherman’s epic battle with a giant marlin.",
+        "price": 6.99,
+        "publisher": "Charles Scribner's Sons",
+        "pages": 127
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "overview": "A children’s novel about a young girl who discovers a hidden, magical garden.",
+        "price": 6.99,
+        "publisher": "Heinemann",
+        "pages": 331
+    }
+]

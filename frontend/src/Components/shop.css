@@ -1,0 +1,74 @@
+.shop-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#shop-title{
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.search-bar {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.book-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.book-icon {
+    font-size: 40px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.book-details h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.book-details p {
+    margin: 5px 0;
+}
+
+.book-price {
+    font-weight: bold;
+    color: #28a745;
+}
+
+.add-to-basket {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-to-basket:hover {
+    background-color: #0056b3;
+}
+img{
+    width:50%
+}
